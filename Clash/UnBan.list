@@ -1,5 +1,9 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+# Twitch 1080P
+DOMAIN,hls.ttvnw.net
+DOMAIN-SUFFIX,hls.ttvnw.net
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
